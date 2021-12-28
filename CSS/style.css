@@ -1,5 +1,5 @@
 body{
-    background-color:cornsilk;
+    background-color:rgb(10, 10, 10);
 }
 #img-div{
     width: 100%;
@@ -15,7 +15,9 @@ img{
     max-width: 750px;
     height:auto;
     display: block;
+    border-radius: 10%;
 }
 #main{
     text-align: center;
+    color: whitesmoke;
 }
